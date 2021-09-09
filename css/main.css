@@ -1,0 +1,11 @@
+#contenedor_direccion {
+    background: lightsalmon;
+}
+
+.seccion {
+    border: 1px solid black;
+}
+
+li {
+    text-decoration: underline;
+}
